@@ -1,0 +1,11 @@
+pv_725.song_name=神っぽいな
+pv_725.song_name_en=God-ish
+pv_725.artist_en=PinocchioP feat. Hatsune Miku
+pv_725.bpm=140
+pv_725.difficulty.easy.level=3.5
+pv_725.difficulty.normal.level=5.5
+pv_725.difficulty.hard.level=7.5
+pv_725.difficulty.extreme.level=9.5
+pv_725.difficulty.extra.level=10.0
+pv_725.movie_file=rom/movie/godish.mp4
+pv_725.pv_type=movie
